@@ -1,0 +1,4 @@
+DISTRIB_ID="Canister Linux"
+DISTRIB_RELEASE=1.0
+DISTRIB_CODENAME=plasma
+DISTRIB_DESCRIPTION="Canister Linux Plasma 1.0"
